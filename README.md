@@ -1,2 +1,1 @@
-# bash-scripts
-Utility Bash Scripts
+A repository of utility bash scripts for security automation
